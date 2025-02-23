@@ -1,1 +1,1 @@
-Hello, QuantumGuard!
+This is a new feature.
